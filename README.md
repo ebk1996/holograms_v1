@@ -1,5 +1,7 @@
 # Holograms_v1
 
+App.js holds the source code. 
+
 **Holographic To-Do List Application**
 
 Holograms_v1 is an experimental task management app that renders 3D holographic representations of to-do list items in an interactive XYZ plane. Designed for immersive productivity environments, this project merges task organization with spatial visualization using WebGL/Three.js.
