@@ -1,4 +1,11 @@
-# Holograms_v1
+Holographic XYZ Plane Graph To Do List
+
+  -enter text into search field and it renders hologram inside xyz axis plane
+    -embedded to do list functionality for embedding multiple holograms into one plane
+      -holographic scaling for external peripheral devices and scoping for optical glass enhancements and aerospace configurations
+        -link to smart glasses
+          -voice control
+            -ai copilot 
 
 App.js holds the source code. 
 
